@@ -1,0 +1,16 @@
+Ne menyre qe te besh deploy ne Netlify:
+
+Do fshish fishimisht folderat dist dhe parcel-cache nga visual studio code (ose edhe manualisht).
+
+Me pas ne terminal do te ekzekutosh komanden:
+npm run build
+
+Me pas do te krijohet folderi dist, dhe ky eshte folderi qe behet deploy ne Netlify.
+
+Por para se ta besh deploy ne Netlify, duhet ta hapesh ne local server vet fillimisht. 
+
+Realizohet me komanden: npm start ne terminal.
+
+Pasi shikon qe app funksionon ne rregull, atehere e ben deploy.
+
+Ke nje screenshot ne folder ku tregon se si jane te hapur te gjithe filet ne Visual Studio Code.
